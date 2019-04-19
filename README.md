@@ -4,7 +4,8 @@ Le but de cette activité est de creer un site internet sur lequel des élèves 
 
 * Pagination et upload d'un livre
 * Gestion comptes utilisateurs
-* Répondre à un quizz </br>
+* Répondre à un quizz 
+
 La partie que je vais présenter est la pagination et upload d'un livre </br>
 
 <h3> Outils mis en oeuvre afin de réaliser cette activité </h3>
