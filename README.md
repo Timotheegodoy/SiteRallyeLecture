@@ -8,6 +8,7 @@ Le but de cette activité est de creer un site internet sur lequel des élèves 
 La partie que je vais présenter est la pagination et upload d'un livre </br>
 
 <h3> Outils mis en oeuvre afin de réaliser cette activité </h3>
+
 * Visual Studio
 * C#
 * Windows Form
